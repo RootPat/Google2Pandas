@@ -12,16 +12,16 @@ with open(path.join(here, 'LICENSE.txt'), encoding='utf-8') as f:
     license = f.read()
 
 metadata = {\
-    'name'              : 'Google2Pandas',
-    'version'           : '0.1.001',
-    'author'            : 'Matt S.',
+    'name'              : 'Data2Df',
+    'version'           : '0.001',
+    'author'            : 'Patrick Harris .',
     'author_email'      : 'sales@panalysis.com',
     'maintainer'        : 'Matt S.',
     'maintainer_email'  : 'sales@panalysis.com',
-    'url'               : 'https://github.com/panalysis/Google2Pandas',
-    'download_url'	: 'https://github.com/DelciousHair/google2pandas/archive/0.1.0.tar.gz',
-    'description'       : 'Google2Pandas',
-    'long_description'  : long_description,
+    'url'               : '',
+    'download_url'	: '',
+    'description'       : '',
+    'long_description'  : ,
     'classifiers'       : ['Development Status :: 4 - Beta', \
                            'Programming Language :: Python', \
                            'Programming Language :: Python :: 2', \
